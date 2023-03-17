@@ -54,10 +54,10 @@ public class SwaggerConfig {
 
     private ApiInfo getInfo() {
         return new ApiInfo("Ecommerce Backend Application : Rest APIs",
-                "This project is Developed by Abhishek Bhandari","1.0",
+                "This project is Developed by Sanket Paharia","1.0",
                 "Terms of Service",
-                new Contact("Abhishek Bhandari", "https://abhi-shek-bhandari.github.io/",
-                        "abhishekbhandarimail@gmail.com"),
+                new Contact("Sanket Paharia", "https://sanketpaharia.github.io/",
+                        "sanket.paharia@gmail.com"),
                 "Licence of Rest APIs","APIs Licence URL ", Collections.emptyList());
     }
 
