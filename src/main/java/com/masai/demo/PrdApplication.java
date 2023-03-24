@@ -58,7 +58,7 @@ public class PrdApplication implements CommandLineRunner {
 
 		//Creating Admin user if Application is run for first time
 
-		Optional<User> optionalUser = this.userDao.findByEmail("abhishek@gmail.com");
+		Optional<User> optionalUser = this.userDao.findByEmail("sanket@gmail.com");
 
 		if (optionalUser.isEmpty()) {
 
