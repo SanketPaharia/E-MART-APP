@@ -18,3 +18,13 @@ The application includes a variety of features commonly found in e-commerce webs
     spring.datasource.password=root
 ```
 
+## Services
+
+- User Service
+- Cart Service
+- Product Service
+- Promo Code Service
+- Wallet Service
+- Category Service
+
+## ER Diagram
