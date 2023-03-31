@@ -28,3 +28,5 @@ The application includes a variety of features commonly found in e-commerce webs
 - Category Service
 
 
+## ER Diagram
+![](ER-Diagram.png)
