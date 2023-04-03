@@ -9,6 +9,7 @@ The application includes a variety of features commonly found in e-commerce webs
 
 * Update the port number, username and password as per your local database configuration.
 
+
 ```
     server.port=5000
 
@@ -17,6 +18,8 @@ The application includes a variety of features commonly found in e-commerce webs
     spring.datasource.username=root
     spring.datasource.password=root
 ```
+* http://localhost:5000/swagger-ui/index.html#/ 
+
 
 ## Services
 
